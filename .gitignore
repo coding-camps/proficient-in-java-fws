@@ -1,0 +1,8 @@
+# build
+target/
+
+# IDE
+.idea/
+
+# temp
+git-temp.txt
